@@ -15,5 +15,3 @@ export default function getListStudents() {
 
   return arr;
 }
-
-console.log(getListStudents());
